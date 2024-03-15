@@ -1,4 +1,4 @@
-# Webcraping da Composição de índices da Bolsa de Valores
+# Webcraping da Composição de Índices da Bolsa de Valores
 
 ## BR
 - ibov
